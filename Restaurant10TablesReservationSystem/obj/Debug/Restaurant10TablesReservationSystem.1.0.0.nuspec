@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Restaurant10TablesReservationSystem</id>
+    <version>1.0.0</version>
+    <authors>Restaurant10TablesReservationSystem</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Victor\source\repos\Restaurant10TablesReservationSystem\Restaurant10TablesReservationSystem\bin\Debug\netcoreapp3.1\Restaurant10TablesReservationSystem.runtimeconfig.json" target="lib\netcoreapp3.1\Restaurant10TablesReservationSystem.runtimeconfig.json" />
+    <file src="C:\Users\Victor\source\repos\Restaurant10TablesReservationSystem\Restaurant10TablesReservationSystem\bin\Debug\netcoreapp3.1\Restaurant10TablesReservationSystem.dll" target="lib\netcoreapp3.1\Restaurant10TablesReservationSystem.dll" />
+  </files>
+</package>
